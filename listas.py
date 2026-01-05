@@ -41,6 +41,13 @@ informacion.insert(2, "añadirIndice") #posición , dato
 informacion.insert(3, "añadirIndice2") #posición , dato
 print(informacion)
 
+#Información del índice
+informacionNueva = ["Hola", "Soy", "hola"]
+
+print(informacionNueva.index("Soy")) #Posición 1
+print(informacionNueva.index("Hola")) #Posición 0
+print(informacionNueva.index("hola")) #Posición 2
+
 #Remover el item
 informacion.remove("añadirIndice")
 print(informacion)
@@ -69,4 +76,8 @@ print(informacion)
 #otro orden
 edades.sort()
 print(edades)
+
+#Buscar entre atributos
+informacionImportante = ["No soy importante","addrriel@hotmail.com", "contraseña", "no soy importante"]
+print(informacionImportante[1:3])
 
