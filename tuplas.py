@@ -1,7 +1,7 @@
 #TUPLAS
 
 #Se hace con los ()
-#Una tupla es un conjunto de valores
+#Usa cuando quieras una colección ordenada, pero inmutable (no cambia) y con valores fijos.
 
 primeraTupla = ()
 segundaTupla = tuple()

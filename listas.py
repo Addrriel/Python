@@ -1,4 +1,5 @@
 #LISTAS
+#Se usa cuando necesites una colección ordenada, modificable y que permita elementos repetidos.
 
 #1) Formas de hacer lista
 #Una lista es un conjunto de datos
