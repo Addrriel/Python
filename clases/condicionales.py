@@ -36,6 +36,10 @@ elif (promedioCurso >= 9): #d√°ndome cuenta, siempre se debe empezar desde lo m√
 else: 
     print("Tiene curso de vagos")
 
+    
+
+
+
 
 
 
